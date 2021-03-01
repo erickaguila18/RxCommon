@@ -5,4 +5,4 @@ include(":rxcommon-core")
 
 enableFeaturePreview("GRADLE_METADATA")
 
-setupBuildCache()
+//setupBuildCache()
